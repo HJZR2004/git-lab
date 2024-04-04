@@ -6,10 +6,10 @@ Git practice laboratory, and trying titles and sub titles.
 
 ## References.
 
-[Git pro book](https://git-scm.com/book/en/v2)
-[Git pro book](https://docs.github.com/en)
-[Git pro book](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
-[Git pro book]([https://git-scm.com/book/en/v2](https://git-scm.com/doc))
+[Git pro book:](https://git-scm.com/book/en/v2)
+[Github documentation:](https://docs.github.com/en)
+[Github glossary:](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+[Git documentation:](https://git-scm.com/doc)
 
 
 Julian Ramirez

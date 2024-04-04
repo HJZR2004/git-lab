@@ -1,6 +1,9 @@
 # git-lab
 ## Description.
+Git practice laboratory, and trying titles and sub titles.
 
- Git practice laboratory.
+## Contents.
 
+## References.
+[Git pro book](https://git-scm.com/book/en/v2)
 Julian Ramirez

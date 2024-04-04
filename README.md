@@ -1,4 +1,4 @@
-# git-lab
+# Git-lab
 ## Description.
 Git practice laboratory, and trying titles and sub titles.
 
@@ -7,9 +7,16 @@ Git practice laboratory, and trying titles and sub titles.
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
 of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-### code examples
-```python print("Hello world") ```
-print("Hello world")
+### Code examples.
+```python
+def addTwoNumbers(a,b)
+  return a + b
+```
+
+### Lists.
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
 
 ## References.
 

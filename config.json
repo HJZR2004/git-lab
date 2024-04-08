@@ -11,8 +11,8 @@
   },
   "logging": {
     "level": "info",
-    "file": "./logs/app.log"
+    "file": "./logs/app.log",
+    "host": "192.5.5.1"
   }
 }
-
 
